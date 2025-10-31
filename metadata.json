@@ -1,0 +1,5 @@
+{
+  "name": "Agente Experto en Prompts de IA",
+  "description": "Una aplicación avanzada para crear, probar y refinar prompts para modelos de IA generativa, con control detallado sobre los parámetros y el comportamiento del modelo.",
+  "requestFramePermissions": []
+}
